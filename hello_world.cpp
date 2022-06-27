@@ -1,6 +1,6 @@
 #include <iostream>
 int main(int args, char* argv[])
 {
-std::cout << "Hello Universe!!!!!!\n";
+std::cout << "Hello Narwhal!\n";
 return 0;
 }
